@@ -54,7 +54,6 @@ class App(tk.Tk):
             serv.close()
         textarea.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
 
-    # ------------------------------------------
 
 #===========================
 # Start GUI
